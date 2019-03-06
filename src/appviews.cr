@@ -1,6 +1,11 @@
-# TODO: Write documentation for `Appviews`
+require "kemal"
+
 module Appviews
   VERSION = "0.1.0"
 
-  # TODO: Put your code here
+  get "/" do
+    "My first Kemal app is alive!"
+  end
+
+  Kemal.run
 end
