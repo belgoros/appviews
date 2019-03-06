@@ -1,0 +1,13 @@
+name: appviews
+version: 0.1.0
+
+authors:
+  - Serguei Cambour <serguei.cambour.partner@decathlon.com>
+
+targets:
+  appviews:
+    main: src/appviews.cr
+
+crystal: 0.27.2
+
+license: MIT
