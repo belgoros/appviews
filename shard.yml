@@ -2,7 +2,7 @@ name: appviews
 version: 0.1.0
 
 authors:
-  - Serguei Cambour <serguei.cambour.partner@decathlon.com>
+  - Serguei Cambour
 
 targets:
   appviews:
